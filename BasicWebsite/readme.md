@@ -1,6 +1,6 @@
 # 📄 Basic Website – HTML Demo
 
-Welcome to my **very basic** static website project. This was created to demonstrate fundamental frontend concepts using only HTML. No CSS frameworks, no JavaScript — just raw, honest `<div>` energy.
+Welcome to my **very basic** static website project. This was created to demonstrate fundamental frontend concepts using only HTML. No JavaScript — just raw, honest `<div>` energy.
 
 ## 🚀 What is this?
 
@@ -9,14 +9,12 @@ A super minimal website consisting of:
 - Some structured content (like a company overview)  
 - A contact section  
 
-All built with plain HTML, the way your ancestors intended.
+All built with plain HTML and CSS, the way your ancestors intended.
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS
-
-## 🔍 File Structure
 
 
 ## 📷 Preview
