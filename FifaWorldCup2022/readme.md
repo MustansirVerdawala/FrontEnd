@@ -1,6 +1,6 @@
 # ⚽ FIFA World Cup 2022 – Static Website
 
-A basic HTML-only website created to showcase information about the **FIFA World Cup 2022**. Built entirely using static HTML because who needs CSS when you have `<table>` supremacy?
+A basic HTML-only website created to showcase information about the **FIFA World Cup 2022**. Built entirely using static HTML.
 
 ## 🌍 What’s Inside?
 
